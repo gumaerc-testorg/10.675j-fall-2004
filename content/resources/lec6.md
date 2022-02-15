@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Outline of topics covered in Lecture 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/0fb961157bf17a580c4186d08d1c832b_Lec6.pdf
+file: /media/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/0fb961157bf17a580c4186d08d1c832b_Lec6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lec6.pdf
 uid: 0fb96115-7bf1-7a58-0c41-86d08d1c832b

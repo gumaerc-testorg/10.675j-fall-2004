@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/b4f3634708ef25282b572b5fb7475e49_ps3.pdf
+file: /media/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/b4f3634708ef25282b572b5fb7475e49_ps3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps3.pdf
 uid: b4f36347-08ef-2528-2b57-2b5fb7475e49

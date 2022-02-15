@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 11a20d95-875e-0013-1d75-92bd39ead019
 ---
@@ -29,7 +32,7 @@ Student Project Titles
 6.  Potential Biases in Electronic Structure Calculations  
       
     
-7.  Quantum Chemical Study of the Structure and Thermodynamics of the ONOO-/CO2 Adduct  
+7.  Quantum Chemical Study of the Structure and Thermodynamics of the ONOO-/CO{{< sub "2" >}} Adduct  
       
     
 8.  Simulation of Keto-enol Tautomerism using CPMD Plus Metadynamics  

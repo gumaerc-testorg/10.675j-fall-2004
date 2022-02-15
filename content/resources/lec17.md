@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Outline of topics covered in Lecture 17.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/ca0371f4f5047168178a2e6503569290_Lec17.pdf
+file: /media/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/ca0371f4f5047168178a2e6503569290_Lec17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lec17.pdf
 uid: ca0371f4-f504-7168-178a-2e6503569290
