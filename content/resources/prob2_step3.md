@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cef0b5ed-80f6-26a1-6beb-3844490d082d
 resourcetype: Document
 title: prob2_step3.pdf
 uid: aa344f9d-ea9a-735f-8dc6-bb2528cf208f

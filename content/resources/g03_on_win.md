@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 402302d2-02c0-6500-e6f3-05ecdd6e0793
 resourcetype: Document
 title: g03_on_win.pdf
 uid: f85e635d-9a46-67eb-c54d-88684040b6f8
