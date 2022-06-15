@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: ffd790ea-47bd-75c6-3fea-7f8b3207e5cf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Assigned readings of journal articles are included in the table below as well as readings from the required text:

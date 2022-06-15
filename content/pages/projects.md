@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 11a20d95-875e-0013-1d75-92bd39ead019
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Each student is required to complete a final project.
