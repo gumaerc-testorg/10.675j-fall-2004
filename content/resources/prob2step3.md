@@ -5,6 +5,7 @@ file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 File containing solution to Problem 2 Step 3 of Homework 3.
-
