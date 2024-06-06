@@ -2,6 +2,7 @@
 content_type: resource
 description: Outline of topics covered in Lecture 3.
 file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/f2fc0576a08324375b77f6d47388bf2a_Lec3.pdf
+file_size: 134362
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

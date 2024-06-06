@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set solution.
 file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/2526456645747382ca73e99cb071d36c_ps1_solution.pdf
+file_size: 125202
 file_type: application/pdf
 learning_resource_types:
 - Assignments

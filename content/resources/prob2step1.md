@@ -2,6 +2,7 @@
 content_type: resource
 description: File containing solution to Problem 2 Step 1 of Homework 3.
 file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/6a1a5ac51cefc5389ed65daa566c7236_Prob2step1.txt
+file_size: 768
 file_type: text/plain
 learning_resource_types:
 - Assignments
