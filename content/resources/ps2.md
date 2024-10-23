@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/17d149e86fa00d284bb79609628a151f_ps2.pdf
+file: /ol-ocw-studio-app/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/17d149e86fa00d284bb79609628a151f_ps2.pdf
 file_size: 98246
 file_type: application/pdf
 learning_resource_types:
