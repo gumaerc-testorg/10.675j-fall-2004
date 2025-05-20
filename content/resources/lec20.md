@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of topics covered in Lecture 20.
-file: /ol-ocw-studio-app/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/6481ee7415366613f6d0ea433c6726ce_Lec20.pdf
+file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/6481ee7415366613f6d0ea433c6726ce_Lec20.pdf
 file_size: 181708
 file_type: application/pdf
 learning_resource_types:

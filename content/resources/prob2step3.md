@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: File containing solution to Problem 2 Step 3 of Homework 3.
-file: /ol-ocw-studio-app/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/2f8f340181439041398d27b8c24c3226_Prob2step3.txt
+file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/2f8f340181439041398d27b8c24c3226_Prob2step3.txt
 file_size: 183
 file_type: text/plain
 learning_resource_types:
