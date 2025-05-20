@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem 2 Step 1 flie for Homework 3.
-file: /ol-ocw-studio-app/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/743d03ddbdeeed4789da3f7a49a8b3bf_prob2_step1.pdf
+file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/743d03ddbdeeed4789da3f7a49a8b3bf_prob2_step1.pdf
 file_size: 32805
 file_type: application/pdf
 learning_resource_types:

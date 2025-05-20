@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of topics covered in Lecture 8.
-file: /ol-ocw-studio-app/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/234e725a57313c6a5ff142d92951ac5d_Lec8.pdf
+file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/234e725a57313c6a5ff142d92951ac5d_Lec8.pdf
 file_size: 116195
 file_type: application/pdf
 learning_resource_types:
