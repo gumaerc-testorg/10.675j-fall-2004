@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Homework 5.
-file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/e49db8483bdb3fa5f74b848d2449115e_CPMD_input_file.txt
+file: /ol-ocw-studio-app/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/e49db8483bdb3fa5f74b848d2449115e_CPMD_input_file.txt
 file_size: 779
 file_type: text/plain
 learning_resource_types:

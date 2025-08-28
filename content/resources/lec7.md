@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of topics covered in Lecture 7.
-file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/456fc187ac8a8f5a32d4c26483a484af_Lec7.pdf
+file: /ol-ocw-studio-app/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/456fc187ac8a8f5a32d4c26483a484af_Lec7.pdf
 file_size: 120235
 file_type: application/pdf
 learning_resource_types:
