@@ -26,7 +26,7 @@ Course Objectives
 
 1.  Learn a different approach to solving scientific and engineering problems: performing quantum mechanical calculations and understanding their scope, possibilities and limitations.  
     
-2.  Be able to perform calculations during your research at MIT, in [Practice School](https://cheme.mit.edu/academics/practice-school/), and in your future work. (Several students of this class have published papers in major journals based on their projects.)  
+2.  Be able to perform calculations during your research at MIT, in {{% resource_link "e76956cd-0b01-47e4-adfa-5ab9fdaf684e" "Practice School" %}}, and in your future work. (Several students of this class have published papers in major journals based on their projects.)  
     
 3.  Gain a (partial) familiarity with the literature and be able to read it critically.  
     
@@ -47,11 +47,11 @@ There is no suitable textbook for this course. The best one still seems to be _M
 Software
 --------
 
-[Gaussian03](http://www.gaussian.com/): Used to perform quantum mechanical calculations.
+{{% resource_link "6ae088b9-2953-42e5-806a-25bf5a2aa653" "Gaussian03" %}}: Used to perform quantum mechanical calculations.
 
-[GaussView](http://www.gaussian.com/): GUI, used to create job files, run jobs, and visualize output.
+{{% resource_link "6ae088b9-2953-42e5-806a-25bf5a2aa653" "GaussView" %}}: GUI, used to create job files, run jobs, and visualize output.
 
-[CPMD](http://www.cpmd.org/): Car-Parrinello Molecular Dynamics Web site.
+{{% resource_link "fbe40cbe-aca8-4ff1-a77f-d4b6a3e54d37" "CPMD" %}}: Car-Parrinello Molecular Dynamics Web site.
 
 Hardware
 --------
