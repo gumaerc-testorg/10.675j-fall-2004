@@ -18,14 +18,14 @@ video_metadata:
 
 The objective of using Gaussian in this course is to understand better chemical reactions and transition state theory, in addition to the computations of thermochemistry. With this in mind, our objective is to give you simple, illustrative calculations, and to sacrifice accuracy for speed and simplicity.
 
-Additional information can be found at the General {{% resource_link "6ae088b9-2953-42e5-806a-25bf5a2aa653" "Gaussian Web site" %}}.
+Additional information can be found at the General [Gaussian Web site](http://www.gaussian.com/).
 
-At this site, you can download or access the on line {{% resource_link "92f4f76f-b734-4458-b3c9-58594603858a" "Gaussian03 manual" %}}. The syntax should not be too much different for Gaussian98 and Gaussian03.
+At this site, you can download or access the on line [Gaussian03 manual](https://wanglab.hosted.uark.edu/g03guide/G03Guide/www.gaussian.com/g_ur/g03mantop.htm). The syntax should not be too much different for Gaussian98 and Gaussian03.
 
 Class notes on Basics of Running G03 on a PC ({{% resource_link "f85e635d-9a46-67eb-c54d-88684040b6f8" "PDF" %}})
 
 ### Car-Parrinello Molecular Dynamics (CPMD)
 
-You can get extensive information, in addition to instructions on how to download {{% resource_link "9066dcdb-57ca-4c16-ba92-5338895d097b" "CPMD" %}} and the online manual.
+You can get extensive information, in addition to instructions on how to download [CPMD](https://github.com/CPMD-code) and the online manual.
 
-{{% resource_link "175a80e4-1762-42f0-87e9-60c167e352c5" "CPMD Manual" %}}
+[CPMD Manual](https://www.cpmd.org/wordpress/CPMD/getFile.php?file=manual.pdf)
